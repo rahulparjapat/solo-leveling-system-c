@@ -1,0 +1,6 @@
+{
+"name":"SSC Solo Leveling System",
+"short_name":"SSC Hunter",
+"start_url":"public/index.html",
+"display":"standalone"
+}
